@@ -1,0 +1,9 @@
+Lead Software Engineer (Platform Engineering) — Global FinTech Bank | City, Country | Nov 2022 – Present
+Project: Payables Module – Distribution Finance
+Tech: Java 17, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes (EKS/OpenShift), Jenkins, AWS (S3, EC2)
+- Designed and delivered enterprise finance microservices with Spring Boot and Java 17.
+- Built distributed data pipelines (Java Streams/Kafka) for large transaction datasets; improved throughput ~30%.
+- Containerized services and deployed to OpenShift/EKS with automated CI/CD (Jenkins + Git).
+- Integrated observability with ELK and Grafana; enabled proactive alerting and faster incident response.
+- Hardened APIs with OAuth2/JWT and RBAC; aligned to compliance and security benchmarks.
+- Collaborated with business/QA/BA to align platform features to regulatory standards; mentored team members on performance and code quality.

@@ -1,0 +1,7 @@
+- Built cloud‑native platforms with Kubernetes & Docker; improved service resilience by ~30%.
+- Drove observability with ELK & Grafana; reduced MTTR by ~35%.
+- Automated CI/CD with Jenkins & GitHub Actions; cut release cycles by ~40%.
+- Designed microservices for high‑volume systems achieving 95%+ uptime.
+- Implemented secure APIs using OAuth2/JWT aligned to OWASP best practices.
+- Mentored teams on DevEx, Java performance, and secure cloud deployment.
+- Contributed to AI‑driven log monitoring/anomaly detection showcased in whitepapers.

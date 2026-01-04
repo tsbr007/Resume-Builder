@@ -1,0 +1,8 @@
+Senior Full Stack Developer & Lead Technologist — Technology Solutions Corp | City, Country | Feb 2021 – Nov 2022
+Project: Financial Services Platform (Team size: 6)
+Tech: Java 17, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes (EKS/OCP), AWS (EKS, S3, EC2), Angular
+- Delivered financial platform features integrating Angular UIs with Spring Boot microservices.
+- Implemented Kafka‑based workflows with retries, DLQs, and idempotent consumers for reliability.
+- Deployed cloud‑native services on AWS (EKS, S3, EC2); improved scalability and cost visibility.
+- Applied ELK‑based logging and dashboards to enhance production triage and SLO tracking.
+- Implemented secure, role‑based access controls across service endpoints.

@@ -1,0 +1,3 @@
+Earlier Experience — Major IT Consultancies | | Prior to 2016
+- Built enterprise web apps using Java, JSP/Servlets, and early Spring frameworks.
+- Migrated legacy monoliths toward modular services; participated across SDLC (requirements → deployment).

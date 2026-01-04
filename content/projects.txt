@@ -1,0 +1,2 @@
+- AI‑assisted log monitoring & anomaly detection (whitepaper; production pilot).
+- Kafka‑centric data pipelines with idempotency and DLQ strategies for financial transactions.

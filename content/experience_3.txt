@@ -1,0 +1,5 @@
+Senior Full Stack Developer — IT Services Inc | City, Country | Jun 2016 – Feb 2021
+Tech: Java, Spring Boot, Angular, MyBatis, Oracle, MongoDB
+- Built Angular dashboards with near real‑time views for operational and financial KPIs.
+- Developed REST APIs with Spring Boot; optimized persistence with MyBatis and database tuning.
+- Partnered with QA to expand automated coverage (Selenium/Cypress); stabilized releases.

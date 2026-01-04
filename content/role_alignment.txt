@@ -1,0 +1,1 @@
+Alignment with Senior Platform Engineer requirements: experience designing scalable microservices on AWS/Kubernetes, leading by coding and setting standards, building PoCs, driving performance/quality, and mentoring engineers. Hands‑on with distributed systems, event‑driven patterns, observability, and secure API engineering.

@@ -1,0 +1,2 @@
+johndoe@example.com | +1-555-010-5555 | LinkedIn: https://www.linkedin.com/in/johndoe/
+GitHub: https://github.com/johndoe | Medium: https://medium.com/@johndoe

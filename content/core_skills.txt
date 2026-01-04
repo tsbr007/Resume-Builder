@@ -1,0 +1,8 @@
+Cloud & Containers: AWS (EKS, EC2, S3), OpenShift, Docker, Kubernetes
+Languages & Frameworks: Java 17, Spring Boot, Spring Cloud, Python (AI/ML integration), TypeScript, Angular
+Messaging & Data: Kafka, PostgreSQL, SQL Server, Oracle, MongoDB, DB2
+Observability & Automation: ELK Stack, Grafana, Prometheus, Jenkins, GitHub Actions, GitOps
+Architecture: Distributed Systems, Event‑Driven Architecture, Microservices, Secure API Engineering
+Testing & Quality: JUnit, Mockito, Selenium, Cypress
+Security: OAuth2, JWT, RBAC, OWASP guidelines
+Tools: Git, Maven, Gradle, SonarQube

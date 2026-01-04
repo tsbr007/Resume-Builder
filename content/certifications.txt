@@ -1,0 +1,5 @@
+- Certified AI Engineer – NLP, CV, GenAI Apps
+- Cloud Fundamentals Certification (AZ‑900)
+- 2× Runner‑Up – Internal Hackathons (Log Monitoring & Data Profiling)
+- Whitepaper: Customer Lifetime Value Prediction – showcased at Industry Conference
+- AWS migration and containerization – hands‑on project work
